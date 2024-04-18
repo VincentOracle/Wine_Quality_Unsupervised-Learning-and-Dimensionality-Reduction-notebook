@@ -29,7 +29,8 @@ Open a jupyter notebook for running the Unsupervised Algorithmn as follows
 K-Means clustering
 Expectation Maximization
 For both clustering algorithms, we will use the Euclidean distance as our measure of similarity.
-K-Means Clustering:
+
+### K-Means Clustering:
 We will start by applying K-Means clustering to the Wine Quality dataset.
 We will run the algorithm with different values of K 
 and choose the best K based on the within-cluster sum of squares (WCSS) and the silhouette score.
